@@ -1,0 +1,26 @@
+{
+  "name": "morse-code",
+  "version": "1.0.0",
+  "description": "Encrypt and Decrypt morse codes",
+  "main": "morse.js",
+  "keywords": [
+    "morse",
+    "code",
+    "cipher",
+    "cryptjs",
+    "morse-code",
+    "aes-encryption",
+    "puzzles",
+    "ciphers",
+    "engima",
+    "world war",
+    "military",
+    "military codes",
+    "base64",
+    "rsa",
+    "nsa",
+    "ascii"
+  ],
+  "author": "Ephraim Atta-Duncan",
+  "license": "MIT"
+}
