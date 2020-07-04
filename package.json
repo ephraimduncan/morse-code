@@ -1,8 +1,11 @@
 {
-  "name": "morsejs",
+  "name": "morse-code-js",
   "version": "1.0.0",
   "description": "Encrypt and Decrypt morse codes",
   "main": "morse.js",
+  "scripts": {
+    "push": "git push && npm publish"
+  },
   "keywords": [
     "morse",
     "code",

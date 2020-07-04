@@ -1,8 +1,8 @@
 # Morse Code Js
 
-<--bagdes-->
+![NPM](https://img.shields.io/npm/l/morsejs) ![GitHub followers](https://img.shields.io/github/followers/dephraiim?style=social) ![npm](https://img.shields.io/npm/v/morse-code-js)
 
-morse-code.js is a mini javascript library that converts a given text to morse code or a given morse code back to text.
+morse-code-js is a mini javascript library that converts a given text to morse code or a given morse code back to text.
 
 The key is based on the table below.
 
@@ -19,12 +19,12 @@ For a bit of clarity, I
 
 ### Installation
 
-`npm install morse-code`
+`npm install morse-code-js`
 
 ### Usage
 
 ```js
-const morseCode = require('morse-code');
+const morseCode = require('morse-code-js');
 
 morseCode.morse();
 morseCode.string();
