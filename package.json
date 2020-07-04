@@ -1,5 +1,5 @@
 {
-  "name": "morse-code",
+  "name": "morsejs",
   "version": "1.0.0",
   "description": "Encrypt and Decrypt morse codes",
   "main": "morse.js",
